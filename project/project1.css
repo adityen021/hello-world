@@ -1,0 +1,23 @@
+header{
+	text-align: center;
+	margin-top: 20px;
+}
+section{
+float:left;
+box-sizing: border-box;
+width:30%;
+height:50px;
+position:relative;
+background-color:#dddddd;
+margin: 10px;
+border:2px solid black;
+}
+span{
+	position:absolute;
+	right:0;
+	top:0;
+}
+div{
+	margin-top: 10px;
+	align-content :center;
+}
